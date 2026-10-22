@@ -1,0 +1,9 @@
+{
+  "reference": "PAY-DUP-0001",
+  "amountCents": 8800,
+  "currency": "AUD",
+  "bsb": "062-000",
+  "accountNumber": "715204968",
+  "reasonCode": "DUPLICATE_PAYMENT",
+  "direction": "INBOUND"
+}

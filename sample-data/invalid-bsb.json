@@ -1,0 +1,9 @@
+{
+  "reference": "PAY-BAD-0001",
+  "amountCents": 25000,
+  "currency": "AUD",
+  "bsb": "032001",
+  "accountNumber": "264817053",
+  "reasonCode": "INSUFFICIENT_FUNDS",
+  "direction": "OUTBOUND"
+}

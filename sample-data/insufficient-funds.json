@@ -1,0 +1,9 @@
+{
+  "reference": "PAY-IF-0001",
+  "amountCents": 25000,
+  "currency": "AUD",
+  "bsb": "032-001",
+  "accountNumber": "482910375",
+  "reasonCode": "INSUFFICIENT_FUNDS",
+  "direction": "OUTBOUND"
+}

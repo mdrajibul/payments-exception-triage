@@ -1,0 +1,8 @@
+{"reference":"PAY-J-0001","amountCents":25000,"currency":"AUD","bsb":"032-001","accountNumber":"518203746","reasonCode":"INSUFFICIENT_FUNDS","direction":"OUTBOUND"}
+{"reference":"PAY-J-0002","amountCents":8800,"currency":"AUD","bsb":"062-000","accountNumber":"627340195","reasonCode":"DUPLICATE_PAYMENT","direction":"INBOUND"}
+{"reference":"PAY-J-0003","amountCents":1000000,"currency":"AUD","bsb":"182-512","accountNumber":"739461028","reasonCode":"INSUFFICIENT_FUNDS","direction":"OUTBOUND"}
+{"reference":"PAY-J-0004","amountCents":4200,"currency":"AUD","bsb":"112-879","accountNumber":"840572139","reasonCode":"INVALID_ACCOUNT","direction":"OUTBOUND"}
+{"reference":"PAY-J-0005","amountCents":15000,"currency":"AUD","bsb":"484-799","accountNumber":"951683240","reasonCode":"BANK_UNAVAILABLE","direction":"INBOUND"}
+{"reference":"PAY-J-0006","amountCents":63000,"currency":"AUD","bsb":"733-456","accountNumber":"162794351","reasonCode":"SUSPECTED_FRAUD","direction":"OUTBOUND"}
+{"reference":"PAY-J-0007","amountCents":999999,"currency":"AUD","bsb":"012-003","accountNumber":"273805462","reasonCode":"INSUFFICIENT_FUNDS","direction":"OUTBOUND"}
+{"reference":"PAY-J-0008","amountCents":5400,"currency":"AUD","bsb":"306-089","accountNumber":"384916573","reasonCode":"duplicate_payment","direction":"INBOUND"}

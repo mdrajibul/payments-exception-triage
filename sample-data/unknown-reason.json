@@ -1,0 +1,9 @@
+{
+  "reference": "PAY-UNK-0001",
+  "amountCents": 63000,
+  "currency": "AUD",
+  "bsb": "733-456",
+  "accountNumber": "930581247",
+  "reasonCode": "CUSTOMER_DISPUTE",
+  "direction": "OUTBOUND"
+}
