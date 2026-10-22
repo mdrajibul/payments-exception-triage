@@ -1,0 +1,29 @@
+{
+  "name": "payments-exception-triage",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Rules-based payments exception triage service (synthetic AU payments data).",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "npm run build && node dist/main.js",
+    "build": "node esbuild.config.js",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "format": "prettier --write src tests",
+    "format:check": "prettier --check src tests"
+  },
+  "dependencies": {
+    "fastify": "^5.12.7",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "esbuild": "^0.28.2",
+    "prettier": "^3.9.10",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}
