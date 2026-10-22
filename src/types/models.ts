@@ -1,5 +1,7 @@
 export type Direction = "INBOUND" | "OUTBOUND";
 
+export type TriageAction = "AUTO_CLOSE" | "QUEUE_REVIEW" | "NEEDS_HUMAN";
+
 export type PaymentException = {
   reference: string;
   amountCents: number;
